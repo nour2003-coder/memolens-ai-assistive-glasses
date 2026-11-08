@@ -1,0 +1,12 @@
+# Private biometric data
+data/registered_faces/
+data/test_images/
+data/face_database.npz
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated outputs
+outputs/
